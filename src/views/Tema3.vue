@@ -175,7 +175,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-8
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CARTILLA-NUEVOS-ESTANDARES-MINIMOS.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -186,9 +186,9 @@
                         
     .row.mb-5.justify-content-center
       .col-lg-8
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/TablaValores.docx')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-xls.svg")
+            img(src="@/assets/template/icono-doc.svg")
           .anexo__texto
             p <b>Anexo.</b> Anexo. Con el fin de ampliar la información sobre la autoevaluación, descargue el siguiente documento en Excel, denominado Lista de chequeo/autoevaluación revisión tabla de valores y su clasificación.
                    

@@ -94,7 +94,7 @@
       .col-lg-8
         a.anexo.mb-4(:href="obtenerLink('/downloads/Valoracion_Riesgos.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p <b>Anexo.</b> Estimado aprendiz para mejorar la comprensión de este tema descargue el documento denominado Valoración riesgos.
 
@@ -140,7 +140,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-9
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Valoracion_Riesgos.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/GTC_45_DE_2012.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -167,7 +167,7 @@
           
           .row.justify-content-center.mb-5
             .col-lg-8
-              a.anexo.mb-4.div-blanco(:href="obtenerLink('/downloads/Valoracion_Riesgos.pdf')" target="_blank")
+              a.anexo.mb-4.div-blanco(:href="obtenerLink('/downloads/GTHS02.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto

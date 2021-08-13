@@ -167,134 +167,181 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'AXA Colpatria. (2020). Guía para la implementación del Programa de Vigilancia Epidemiológica del COVID-19 en las empresas afiliadas a ARL AXA Colpatria. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://asesoriavirtualaxacolpatria.co/axabiblioteca/2020_06_25_17_05_33_29196.pdf/biblioteca/TipoArchivo/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Decreto 1072 del 2015. [Ministerio del Trabajo]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. Mayo 25 de 2015. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.mintrabajo.gov.co/documents/20147/0/DUR+Sector+Trabajo+Actualizado+a+15+de+abril++de+2016.pdf/a32b1dcf-7a4e-8a37-ac16-c121928719c8',
+    },
+    {
+      referencia: 'ICONTEC. (2012). Guía Técnica Colombiana GTC 45. ICONTEC. ',
+      link: 'http://132.255.23.82/sipnvo/normatividad/GTC_45_DE_2012.pdf',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Julio 11 de 2012. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Ley-1562-de-2012.pdf',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ministerio de Salud y Protección Social. (2017). Programa de elementos de protección personal, uso y mantenimiento. MinSalud. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Organización Internacional del Trabajo. (s.f.). La organización del trabajo y los riesgos psicosociales: una mirada de género. OIT. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.ilo.org/wcmsp5/groups/public/---americas/---ro-lima/---sro-san_jose/documents/publication/wcms_227402.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Organización Panamericana de la Salud. (s.f.). Coronavirus. OPS. ',
+      link: 'https://www.paho.org/es/temas/coronavirus',
+    },
+    {
+      referencia:
+        'Resolución 777 de 2021. [Ministerio de Salud y Protección Social]. Por medio de la cual se definen los criterios y condiciones para el desarrollo de las actividades económicas, sociales y del Estado y se adopta el protocolo de bioseguridad para la ejecución de estas. Junio 2 de 2021. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.mineducacion.gov.co/1759/articles-405413_documento_pdf.pdf',
+    },
+    {
+      referencia:
+        'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. Febrero 13 de 2019.  ',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+0312-2019-+Estandares+minimos+del+Sistema+de+la+Seguridad+y+Salud.pdf',
+    },
+    {
+      referencia:
+        'Resolución 773 de 2021. [Ministerio del Trabajo]. Por la cual se definen las acciones que deben desarrollar los empleadores para la aplicación del Sistema Globalmente Armonizado (SGA) de Clasificación y Etiquetado de Productos Químicos en los lugares de trabajo y se dictan otras disposiciones en materia de seguridad química. Abril 7 de 2021. ',
+      link: 'https://safetya.co/normatividad/resolucion-773-de-2021/',
+    },
+    {
+      referencia: 'SURA. (2005). Matriz de riesgos específica COVID-19. SURA. ',
+      link:
+        'https://segurossura.com/content/uploads/sites/6/2020/09/Anexo-10-Matriz-de-Riesgos-especifica-COVID-19.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Acción correctiva',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Acción tomada para eliminar la causa de una no conformidad detectada u otra situación no deseable.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Acción de mejora',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Acción de optimización del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), para lograr mejoras en el desempeño de la organización en la seguridad y la salud en el trabajo de forma coherente con su política.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Alta dirección',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Persona o grupo de personas que dirigen y controlan una empresa.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Autorreporte de condiciones de trabajo y salud',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Proceso mediante el cual el trabajador o contratista reporta por escrito al empleador o contratante las condiciones adversas de seguridad y salud que identifica en su lugar de trabajo.',
     },
     {
-      termino: 'Moda',
+      termino: 'Bioseguridad',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Es un conjunto de normas, medidas y protocolos que son aplicados en múltiples procedimientos realizados en los trabajos, con el objetivo de contribuir a la prevención de riesgos o infecciones derivadas de la exposición a agentes potencialmente infecciosos o con cargas significativas de riesgo biológico, químico y/o físicos, como por ejemplo, el manejo de residuos especiales, almacenamiento de reactivos y uso de barreras protectoras, entre otros.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Condiciones de salud',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'El conjunto de variables objetivas y de autorreporte de condiciones fisiológicas, psicológicas y socioculturales que determinan el perfil sociodemográfico y de morbilidad de la población trabajadora.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Diagnóstico de las condiciones de trabajo',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Resultado del procedimiento sistemático para identificar, localizar y valorar aquellos elementos, peligrosos o factores que tienen influencia significativa en la generación de riesgos para la seguridad y la salud de los trabajadores.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Enfermedad laboral',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'La contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar. El Gobierno Nacional determinará en forma periódica las enfermedades que se consideran como laborales y, en los casos en que una enfermedad no figure en la tabla de enfermedades laborales, pero se demuestre la relación de causalidad con los factores de riesgo ocupacionales será reconocida como enfermedad laboral, conforme a lo establecido en las normas legales vigentes (Ley 1562 de 2012, Artículo 4).',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Exposición',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Situación en la cual las personas se encuentran en contacto con los peligros (GTC 45 V 2012).',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Exposición de riesgo ocupacional biológico',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es el contacto de membranas mucosas, piel no intacta o exposición percutánea por herida con objeto corto punzante por parte de un trabajador por causa o con ocasión o a consecuencia de la realización de un trabajo u oficio, con fluidos potencialmente infectantes (sangre, líquido céfalo-raquídeo, líquido sinovial, líquido pleural, líquido peritoneal, líquido pericárdico, líquido amniótico, semen y secreciones vaginales o cualquier secreción visiblemente contaminada con sangre, y que puede suponer un riesgo de infección a través del mismo).',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Evaluación del riesgo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Proceso para determinar el nivel de riesgo asociado al nivel de probabilidad de que dicho riesgo se concrete y al nivel de severidad de las consecuencias de esa concreción.',
+    },
+    {
+      termino: 'Peligro',
+      significado:
+        'Fuente, situación o acto con potencial de causar daño en la salud de los trabajadores, en los equipos o en las instalaciones.',
+    },
+    {
+      termino: 'Perfil sociodemográfico',
+      significado:
+        'De la población trabajadora, que incluye la descripción de las características sociales y demográficas de un grupo de trabajadores, tales como: grado de escolaridad, ingresos, lugar de residencia, composición familiar, estrato socioeconómico, estado civil, raza, ocupación, área de trabajo, edad, sexo y turno de trabajo.',
+    },
+    {
+      termino: 'Vigilancia epidemiológica de la salud en el trabajo',
+      significado:
+        'Comprende la recopilación, el análisis, la interpretación y la difusión continuada y sistemática de datos a efectos de la prevención.',
+    },
+    {
+      termino: 'Virus',
+      significado:
+        'Son partículas de código genético, ADN o ARN, encapsuladas en una vesícula de proteínas. Los virus no se pueden replicar por sí solos, necesitan infectar células y usar los componentes de la célula huésped para hacer copias de sí mismos.',
     },
   ],
   complementario: [
+    // {
+    //   texto:
+    //     'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+    //   tipo: 'Video',
+    //   link: 'https://www.google.com/',
+    // },
+    // {
+    //   texto:
+    //     'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+    //   tipo: 'Página web',
+    //   descarga: '/downloads/prueba.pdf',
+    // },
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'MinTrabajo. (s.f.). Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) Guía técnica de implementación para mipymes. MinTrabajo. ',
+      tipo: 'Guía',
+      descarga:
+        '/downloads/Guia tecnica de implementacion del SG SST para Mipymes.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Ministerio de Salud y Protección Social. (2020).  Recomendaciones para el cuidado de la salud mental y la promoción de la convivencia en la flexibilización de la medida de aislamiento preventivo durante la pandemia por COVID-19. Consejo Nacional de Salud Mental.',
+      tipo: 'Documento',
+      descarga:
+        '/downloads/final-cartilla-orientaciones-flexibilizacion-medidas-aislamiento240820.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Ley 2088. Por la cual se regula el trabajo en casa y se dictan otras disposiciones. Mayo 12 de 2021. ',
+      tipo: 'Ley',
+      descarga: '/downloads/Ley_2088_de_2021.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Colmena Seguros. Sistema de Vigilancia Epidemiológica. Oportunidad de prevención integral para COVID-19. Colmena Seguros.',
+      tipo: 'Documento',
+      descarga: '/downloads/s4-Cartilla de Implementacion SVE  COVID-19.pdf',
     },
   ],
   creditos: {
@@ -316,7 +363,7 @@ export default {
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable equipo',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -326,26 +373,61 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Eulises Orduz Amezquita',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Adriana Marcela Suárez Eljure',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Arnulfo Beltrán Mojica',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres      ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Edgar Mauricio Cortes García',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

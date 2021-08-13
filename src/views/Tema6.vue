@@ -33,7 +33,7 @@
 
     .row.justify-content-center
       .col-lg-8
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(href="https://www.paho.org/es/temas/coronavirus" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema6/img02.svg")
           .anexo__texto
@@ -168,7 +168,7 @@
                   h3.mb-1.texto-blanco Enlace Web - COVID-19
                   p.text-small.texto-blanco Para mejorar el conocimiento sobre la implementación de programas de <br>vigilancia epidemiológica del COVID-19 puede consultar este enlace.
                 .col-sm-auto
-                  a.boton.color-primario(style="background-color: #FAD369 !important" :href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-primario(style="background-color: #FAD369 !important" :href="obtenerLink('/downloads/2020_06_25_17_05_33_29196.pdf')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 
@@ -184,7 +184,7 @@
 
     .row.justify-content-center
       .col-lg-8
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Valoracion_Riesgos.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Resolución No. 777 de 2021.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

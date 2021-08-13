@@ -102,7 +102,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(href="https://www.fondoriesgoslaborales.gov.co/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema6/img02.svg")
           .anexo__texto
