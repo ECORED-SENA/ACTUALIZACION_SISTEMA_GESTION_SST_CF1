@@ -27,7 +27,7 @@
           img(src='@/assets/curso/tema4/img02.svg')
 
     .row.justify-content-center.mb-5
-      .col-lg-12
+      .col-lg-10
         .bloque-texto-f.color-secundario.div2.pt-4.px-5.mb-5
           .bloque-texto-f__comillas.div2
             i.fas.fa-quote-left
