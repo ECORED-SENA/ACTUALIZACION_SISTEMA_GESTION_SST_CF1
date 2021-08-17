@@ -8,7 +8,7 @@
         span 7
       h1 Identificación de no conformidades y su análisis
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-8
         p.mb-4 Una no conformidad detectada en el SG SST está definida como el no cumplimiento de un requisito. Puede ser una desviación de estándares, prácticas, procedimientos de trabajo, requisitos normativos aplicables, entre otros. 
         p.mb-4 También incluye cualquier otro no cumplimiento a un requisito del SG- SST o que suponga un posible impacto en la seguridad y la salud de los trabajadores.
@@ -21,7 +21,7 @@
       p.mb-0 <b>Tabla 3</b>
       p.mb-0 Recomendaciones
 
-    .tabla-a.color-secundario.mb-5 
+    .tabla-a.color-secundario.mb-5(data-aos="zoom-out") 
           table            
             thead
               tr
@@ -53,7 +53,7 @@
                       | Realizar y tener a disposición del Ministerio del Trabajo un plan de mejoramiento. 
                     li 
                       i.lista-ul__vineta
-                      | Enviar a la respectiva ARL un reporte de avances, en máximo seis (meses después de realizada la autoevaluación de los estándares mínimos. 
+                      | Enviar a la respectiva ARL un reporte de avances, en máximo seis meses después de realizada la autoevaluación de los estándares mínimos. 
                     li 
                       i.lista-ul__vineta
                       | Plan de visita por parte del Ministerio del Trabajo.
@@ -61,13 +61,12 @@
               tr
                 td.text-center <b>Puntaje obtenido mayor a 85</b>
                 td Aceptable
-                td 
-                   b Mantener la calificación y evidencias a disposición del Ministerio del Trabajo e incluir en el plan anual de trabajo las mejoras que se establezcan de acuerdo con la evaluación. 
+                td Mantener la calificación y evidencias a disposición del Ministerio del Trabajo e incluir en el plan anual de trabajo las mejoras que se establezcan de acuerdo con la evaluación. 
     
     p.mb-4 De acuerdo con el Artículo 29 de la Resolución 0312 “el plan debe contener como mínimo las actividades concretas a desarrollar, la persona responsable de cada una de ellas, el plazo determinado para su cumplimiento y la ejecución del plan, y los diferentes recursos administrativos y financieros destinados para su cumplimiento”.
     p.mb-5 El empleador o contratante debe rendir informe sobre el avance del plan de mejoramiento en el mes de julio de cada año, teniendo en cuenta las recomendaciones de la administradora de riesgos laborales, el cual debe contener:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="flip-left") 
       .col-lg-3
         figure
           img(src='@/assets/curso/tema7/img02.svg')
@@ -94,19 +93,18 @@
             .lista-ol--cuadro__vineta
               span 5
             | Fundamentos y soportes de la efectividad de las acciones, actividades a subsanar y prevenir que se presenten en el futuro hechos o situaciones que afecten el bienestar y la salud de los trabajadores o personas que prestan servicios en las empresas.
-          li
-
+         
     p.mb-4 El seguimiento de los planes de mejoramiento está a cargo del Ministerio del Trabajo y de las administradoras de riesgos laborales.
-    p.mb-4 En la Resolución 0312, Artículo 28, Parágrafo 1 se hace referencia a las autoevaluaciones de los años 2017, 2018 y del primer semestre de 2019, las cuales no deben ser registradas en las administradoras de riesgos laborales, estas deben ser conservadas por las empresas a disposición de los funcionarios del Ministerio del Trabajo.
+    p.mb-4 En la Resolución 0312, Artículo 28, Parágrafo 1 se hace referencia a las autoevaluaciones de los años 2017, 2018 y del primer semestre de 2019, las cuales <b>no</b> deben ser registradas en las administradoras de riesgos laborales, estas deben ser conservadas por las empresas a disposición de los funcionarios del Ministerio del Trabajo.
     p.mb-5 Adicionalmente, las empresas deben remitir copia de la autoevaluación de estándares mínimos y del plan de mejoramiento a las administradoras de riesgos laborales para su estudio, análisis, comentarios y recomendaciones desde diciembre de 2019.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-in") 
       .col-lg-10
         a.anexo.mb-4(href="https://www.fondoriesgoslaborales.gov.co/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema6/img02.svg")
           .anexo__texto
-            p <b style="color:#E3934E !important">Enlace web.</b> Reporte autoevaluaciones SG SST. De acuerdo con la Circular 0071 del 2020 se podrán reportar las autoevaluaciones del Sistema de Gestión de Seguridad y Salud en el Trabajo de los años 2019 y 2020 en este enlace.
+            p <b style="color:#E3934E !important">Enlace web.</b> <b>Reporte autoevaluaciones SG SST.</b> De acuerdo con la Circular 0071 del 2020 se podrán reportar las autoevaluaciones del Sistema de Gestión de Seguridad y Salud en el Trabajo de los años 2019 y 2020 en este enlace.
 
 
 

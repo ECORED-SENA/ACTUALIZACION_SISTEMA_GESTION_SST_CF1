@@ -9,12 +9,16 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/introduccion/img01.png') 
 
     p.mb-5 El Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST) está basado en la normativa vigente, para el desarrollo de este componente formativo se tendrá en cuenta el Decreto único del sector trabajo o Decreto 1072 del 2015 y la Resolución 0312 del 2019, por el cual se definen los estándares mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo como se describe a continuación:
 
-    .row.justify-content-center.mb-5
+    figure.mb-5(data-aos="zoom-in")
+      .video           
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/5CF3HZdu6Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .cajon.color-primario
           .row

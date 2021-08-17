@@ -12,7 +12,7 @@
 
     .row.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="zoom-in")  
           img(src='@/assets/curso/tema2/img01.svg') 
       .col-lg-8
         ol.lista-ol--cuadro
@@ -53,21 +53,21 @@
 
     .row.justify-content-center
       .col-lg-10
-        .row.mb-4.t2-div1
+        .row.mb-4.t2-div1(data-aos="fade-right")  
           .col-lg-9.p-4
             p.mb-0 Las prioridades en seguridad y salud en el trabajo definidas en la evaluación inicial, por ejemplo, si una empresa realizó la autoevaluación de la Resolución 0312 de 2019 y obtuvo un puntaje inferior al 60%, los objetivos del Sistema de Gestión estarán orientados hacia un plan de mejoramiento exhaustivo para mejorar los puntajes y por ende el cumplimiento.
           .col-lg-3.py-4
             figure
               img(src='@/assets/curso/tema2/img02.svg') 
 
-        .row.mb-4.t2-div2
+        .row.mb-4.t2-div2(data-aos="zoom-in")  
           .col-lg-9.p-4
             p.mb-0 Estar de acuerdo con el estado de gestión del sistema, es decir, no es lo mismo cuando una empresa ya tiene implementado su sistema de gestión y cada año propende por la mejora continua para mantener óptimas condiciones de seguridad y salud, que cuando la empresa está en la tarea de terminar de implementarlo.
           .col-lg-3.py-4
             figure
               img(src='@/assets/curso/tema2/img03.svg') 
 
-        .row.mb-4.t2-div3
+        .row.mb-4.t2-div3(data-aos="fade-left")  
           .col-lg-9.p-4
             p.mb-0 Deben ser revisados anualmente, al final del año se hará una nueva revisión del estado del SG-SST y se deben establecer unos objetivos acordes con la normatividad vigente, de acuerdo con los resultados obtenidos en los indicadores del sistema y con los resultados de las auditorías y visitas de la ARL.
           .col-lg-3.py-4

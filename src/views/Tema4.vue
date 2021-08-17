@@ -10,7 +10,7 @@
 
     p.mb-5 Las condiciones de trabajo son aquellas que determinan las características del trabajo en relación con la seguridad y salud en el trabajo, incluye salarios, locaciones, equipos, productos, instalaciones y útiles del centro de trabajo, aspectos ambientales, tecnológicos y organizacionales de la empresa. Si ocurre una modificación de alguno de estos ítems se considera que ha habido una modificación a las condiciones de trabajo.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")  
       .col-lg-10
         figure
           img(src='@/assets/curso/tema4/img01.png') 
@@ -32,9 +32,9 @@
           .bloque-texto-f__comillas.div2
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          p.text-regular.bloque-texto-f__texto Se debe definir y aplicar una metodología para la identificación de peligros, evaluación y valoración de los riesgos de origen físico, ergonómico o biomecánico, biológico, químico, de seguridad, público, psicosocial, entre otros, e identificar con base en la valoración de los riesgos, aquellos que son prioritarios, esta metodología debe tener alcance a todos los procesos, actividades rutinarias y no rutinarias, maquinaria y equipos en todos los centros de trabajo y respecto a todos los trabajadores, independientemente de su forma de vinculación y/o contratación
+          p.text-regular.bloque-texto-f__texto Se debe definir y aplicar una metodología para la identificación de peligros, evaluación y valoración de los riesgos de origen físico, ergonómico o biomecánico, biológico, químico, de seguridad, público, psicosocial, entre otros, e identificar con base en la valoración de los riesgos, aquellos que son prioritarios, esta metodología debe tener alcance a todos los procesos, actividades rutinarias y no rutinarias, maquinaria y equipos en todos los centros de trabajo y respecto a todos los trabajadores, independientemente de su forma de vinculación y/o contratación.
 
-    div.pb-5.mb-5(style="background-color: #FEF6E1")    
+    div.pb-5.mb-5(style="background-color: #FEF6E1")(data-aos="zoom-out")      
       .row.justify-content-center
         .col-lg-6
           figure(style="position:relative; top:-55%")
@@ -51,9 +51,9 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         PasosA.color-secundario.mb-5(tipo="l")
-          p Identificar cada uno de los procesos, actividades y tareas que se realicen (rutinarios y no rutinarios), clasificar los peligros ocupacionales, identificar los controles existentes y su nivel de efectividad.
-          p Valorar el riesgo a través de la calificación del riesgo asociado a cada peligro (a mayor probabilidad de que suceda y mayor severidad de las consecuencias, mayor es el nivel de riesgo). Si en las actividades de la empresa se identifican tareas de alto riesgo, estas se deben identificar y relacionar en el SG-SST con los nombres de los trabajadores dedicados a ellas de forma permanente.
-          div
+          p(data-aos="flip-right")   Identificar cada uno de los procesos, actividades y tareas que se realicen (rutinarios y no rutinarios), clasificar los peligros ocupacionales, identificar los controles existentes y su nivel de efectividad.
+          p(data-aos="flip-left")  Valorar el riesgo a través de la calificación del riesgo asociado a cada peligro (a mayor probabilidad de que suceda y mayor severidad de las consecuencias, mayor es el nivel de riesgo). Si en las actividades de la empresa se identifican tareas de alto riesgo, estas se deben identificar y relacionar en el SG-SST con los nombres de los trabajadores dedicados a ellas de forma permanente.
+          div(data-aos="flip-right") 
             p.mb-4 <b>Medidas de prevención y control frente a peligros/riesgos identificados:</b>
             p.mb-4 Se establecen las medidas de prevención y control con base en el resultado de la identificación de peligros, la evaluación y valoración de los riesgos (físicos, ergonómicos, biológicos, químicos, de seguridad, públicos, psicosociales, entre otros), que incluya los prioritarios y además se debe verificar que se ejecuten acorde con el esquema de jerarquización, de ser factible priorizar la intervención en la fuente y en el medio.
             p.mb-4 Si se requieren controles nuevos o mejorados, estos deben ser priorizados y luego clasificados de acuerdo con el principio de eliminación de peligros, y orientados hacia la reducción de riesgos, con el fin de reducir la probabilidad de ocurrencia o la severidad potencial de las lesiones o daños, estos pueden ser: 
@@ -74,15 +74,15 @@
               li 
                 span.text-bold(style="color:#71B0BB") e) 
                 | De equipos de protección personal.
-          p Elaborar plan de acción que contenga las medidas de prevención y control para intervenir los peligros/riesgos, lo cual debe quedar documentado. 
-          p Mantener, actualizar y mejorar la matriz debe ser un proceso constante y de seguimiento continuo.
-          p Evaluación y valoración de los riesgos, corresponde al proceso de determinar la probabilidad de que ocurran eventos específicos y la magnitud de sus consecuencias, mediante el uso sistemático de la información disponible. 
+          p(data-aos="flip-left")  Elaborar plan de acción que contenga las medidas de prevención y control para intervenir los peligros/riesgos, lo cual debe quedar documentado. 
+          p(data-aos="flip-right")  Mantener, actualizar y mejorar la matriz debe ser un proceso constante y de seguimiento continuo.
+          p(data-aos="flip-left")  Evaluación y valoración de los riesgos, corresponde al proceso de determinar la probabilidad de que ocurran eventos específicos y la magnitud de sus consecuencias, mediante el uso sistemático de la información disponible. 
 
     p.mb-5 La evaluación de los riesgos corresponde al proceso de determinar la probabilidad de que ocurran eventos específicos y la magnitud de sus consecuencias, mediante el uso sistemático de la información disponible.
 
     p.mb-5.text-center <b>Para evaluar el nivel de riesgo (NR) se debe determinar lo siguiente: </b>
 
-    .row.mb-4.justify-content-center
+    .row.mb-4.justify-content-center(data-aos="fade-in") 
       .col-lg-10
         figure.mb-5
           img(src='@/assets/curso/tema4/img04.svg')
@@ -96,7 +96,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <b>Anexo.</b> Estimado aprendiz para mejorar la comprensión de este tema descargue el documento denominado Valoración riesgos.
+            p <b>Anexo.</b> Estimado aprendiz para mejorar la comprensión de este tema descargue el documento denominado <b>Valoración riesgos.</b>
 
     .row.mb-5.justify-content-center
       .col-lg-8
@@ -109,10 +109,11 @@
           img(src='@/assets/curso/tema4/img05.svg')
 
     .row.mb-5.justify-content-center
-      .col-lg-2.px-5
-        figure.mb-5
-          img(src='@/assets/curso/tema4/img06.svg')
-      .col-lg-8
+      .col-lg-3.px-5.d-flex.justify-content-end
+        div
+          figure.mb-5
+            img(src='@/assets/curso/tema4/img06.svg')
+      .col-lg-8(data-aos="zoom-out") 
         div.BorTit.mb-3
           p.mb-0 <b>Tabla 1</b>
           p.mb-0 Aceptabilidad del riesgo
@@ -126,17 +127,21 @@
                 th Significado               
             tbody
               tr
-                td I
-                td No aceptable
+                td(align='center') 
+                  p <b>I</b>
+                td(align='center')  No aceptable
               tr
-                td II
-                td No aceptable              
+                td(align='center') 
+                  <b>II</b>
+                td(align='center')  No aceptable              
               tr
-                td III
-                td Aceptable
+                td(align='center') 
+                  <b>III</b>
+                td(align='center')  Aceptable
               tr
-                td IV
-                td Aceptable
+                td(align='center') 
+                  <b>IV</b>
+                td(align='center')  Aceptable
 
     .row.mb-5.justify-content-center
       .col-lg-9
@@ -229,7 +234,7 @@
             p Cuando se ejecutan labores en ambientes en el que el bienestar general se ve afectado se puede decir que se está en presencia de riesgos psicosociales. De igual manera, se está relacionado con las características de la persona como son hábitos, conductas inseguras, características biológicas y orgánicas, autoestima, personalidad, entre otras.
 
           p.mb-4 En el contexto de la pandemia, por ejemplo, en donde las condiciones de vida y de trabajo se vieron alteradas, dado que las familias viven y trabajan en el mismo sitio, se realizan actividades domésticas al mismo tiempo en que se ayuda a los hijos con las clases virtuales, la señal de Internet a veces no funciona bien, entre otras, han hecho que el ritmo de vida y la realidad que se vive altere la estabilidad de las familias y en este contexto el ambiente de trabajo. 
-          p.mb-5 Por lo anterior, el Gobierno Nacional ha emitido la normatividad para el trabajo en casa, esto con el fin de controlar el peligro psicosocial apoyándose en las Administradores de Riesgos Laborales, quienes tienen la responsabilidad de realizar actividades de promoción y prevención a los trabajadores de las empresas afiliadas.
+          p.mb-5 Por lo anterior, el Gobierno Nacional ha emitido la normatividad para el trabajo en casa, esto con el fin de controlar el peligro psicosocial apoyándose en las Administradoras de Riesgos Laborales, quienes tienen la responsabilidad de realizar actividades de promoción y prevención a los trabajadores de las empresas afiliadas.
 
           .row.justify-content-center.mb-5
             .col-lg-8
@@ -323,8 +328,8 @@
           div.div-blanco.p-5.mb-5
             .row
               .col-lg-6
-                h4.titulo-naranja Controles administrativos
-                p.mb-4Almacenar las sustancias químicas, de acuerdo con la matriz de compatibilidad de sustancias químicas.
+                h4.titulo-naranja Controles de ingeniería
+                p.mb-4 Almacenar las sustancias químicas, de acuerdo con la matriz de compatibilidad de sustancias químicas.
 
                 h4.titulo-naranja Controles administrativos
                 ul.lista-ul--color.t1.ms-4
@@ -406,7 +411,7 @@
                         | Proyección de sólidos: corresponde a la generación de objetos extraños como piedras o partes del material de trabajo que la máquina expulsa a gran velocidad y que podría golpear a los trabajadores. 
                       li
                         i.fas.fa-check-double
-                        | Proyección de líquidos: se presenta cuándo la máquina puede proyectar líquidos que son capaces de alcanzar al trabajador y generarle lesiones como quemaduras o daño ocular. 
+                        | Proyección de líquidos: se presenta cuando la máquina puede proyectar líquidos que son capaces de alcanzar al trabajador y generarle lesiones como quemaduras o daño ocular. 
                       li
                         i.fas.fa-check-double
                         | Eléctrico: se genera en cualquier trabajo que implique manipulación de instalaciones eléctricas de baja, media o alta tensión.
@@ -430,7 +435,7 @@
               
               div.px-5
                 h4.titulo-naranja Riesgo por accidente de tránsito
-                p.mb-5 Atendiendo lo que menciona al respecto el Ministerio de transporte (2012) es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados, igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.
+                p.mb-5 Atendiendo lo que menciona al respecto el Ministerio de Transporte (2012) es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados, igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.
                 .row.justify-content-center
                   .col-lg-6
                     figure
@@ -439,7 +444,8 @@
               div.px-5
                 h4.titulo-naranja Riesgo por peligro público
                 p.mb-4 Corresponde a los sucesos que pueden generar efectos no deseados a una persona o a una comunidad determinada, sin necesidad que alguna de estas tenga una característica particular. 
-                p.mb-5 <b>Los peligros públicos se clasifican en:</b> agresión externa contra la empresa, agresión externa contra algún funcionario en razón a su cargo y a las decisiones que toma, agresión al trabajador producto de sus hábitos personales y su ambiente sociofamiliar, agresión indiscriminada, consecuencia de estar en las condiciones de modo, hora y lugar menos oportunas. 
+                p.mb-4 <b>Los peligros públicos se clasifican en:</b> agresión externa contra la empresa, agresión externa contra algún funcionario en razón a su cargo y a las decisiones que toma, agresión al trabajador producto de sus hábitos personales y su ambiente sociofamiliar, agresión indiscriminada, consecuencia de estar en las condiciones de modo, hora y lugar menos oportunas. 
+                p.mb-5 Algunas sugerencias para el manejo del riesgo público son:
                 .row.justify-content-center
                   .col-lg-4
                     figure.px-3
@@ -451,7 +457,7 @@
                           | Mantenga comunicación con su familia.
                         li
                           i.fas.fa-check-double
-                          | Cambié constantemente las rutas por las que transita diariamente.
+                          | Cambie constantemente las rutas por las que transita diariamente.
                         li
                           i.fas.fa-check-double
                           | Manténgase alerta mientras camina o conduce. 
@@ -476,8 +482,9 @@
 
               div.px-5
                 h4.titulo-naranja Riesgo por espacios confinados
-                p.mb-5 Son recintos con aberturas limitadas tanto de entrada como de salida de aire, en donde generalmente la ventilación natural no es buena, con posibles consecuencias como presentar deficiencia de oxígeno. La presencia de sustancias químicas y/o sustancias inflamables pueden generar accidentes por asfixia, intoxicación, explosión, etc.
-                
+                p.mb-5 Son recintos con aberturas limitadas tanto de entrada como de salida de aire, en donde generalmente la ventilación natural no es buena, con posibles consecuencias como presentar deficiencia de oxígeno. La presencia de sustancias químicas y/o sustancias inflamables pueden generar accidentes por asfixia, intoxicación, explosión, etc.                              
+
+              div.px-5
                 .row.justify-content-center
                     .col-lg-7
                       h4.titulo-naranja Riesgo por fenómenos naturales

@@ -8,10 +8,10 @@
         span 6
       h1  Actualización y ajustes a los sistemas de gestión, controles (protocolos, procedimientos) de acuerdo con los peligros priorizados
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-in") 
       img(src='@/assets/curso/tema6/img01.png')
 
-    p.mb-5 Una vez establecidos y priorizados los peligros se definen los controles necesarios para prevenirlos y/o mitigarlos en los entornos laborales, teniendo en cuenta que la pandemia producida por el SARS-CoV-2 se propaga cuando una persona infectada exhala góticas y partículas respiratorias muy pequeñas que contienen el virus, las cuales  pueden ser inhaladas por otras personas o situarse sobre sus ojos, nariz o boca; se hace indispensable gestionar el peligro biológico producido por el COVID -19 desde el Sistema de Gestión de Seguridad y Salud en el Trabajo, mediante la implementación del programa de vigilancia epidemiológica para riesgo biológico, el cual es una herramienta indispensable para la prevención, manejo y control de los peligros que puedan producir enfermedades laborales.
+    p.mb-5 Una vez establecidos y priorizados los peligros se definen los controles necesarios para prevenirlos y/o mitigarlos en los entornos laborales, teniendo en cuenta que la pandemia producida por el <b>SARS-CoV-2</b> se propaga cuando una persona infectada exhala góticas y partículas respiratorias muy pequeñas que contienen el virus, las cuales  pueden ser inhaladas por otras personas o situarse sobre sus ojos, nariz o boca; se hace indispensable gestionar el peligro biológico <b>producido por el COVID -19</b> desde el Sistema de Gestión de Seguridad y Salud en el Trabajo, mediante la implementación del programa de vigilancia epidemiológica para riesgo biológico, el cual es una herramienta indispensable para la prevención, manejo y control de los peligros que puedan producir enfermedades laborales.
     
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -25,11 +25,11 @@
 
     p.mb-5 Según la Organización Panamericana de la Salud “los coronavirus son una extensa familia de virus que causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus. Además, se sabe que hay otros coronavirus circulando entre animales, que todavía no han infectado al ser humano”.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-in") 
       .col-lg-10
         figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video         
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/8SfRsYAHaWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center
       .col-lg-8
@@ -37,7 +37,7 @@
           .anexo__icono
             img(src="@/assets/curso/tema6/img02.svg")
           .anexo__texto
-            p <b style="color:#E3934E !important">Enlace web.</b> Coronavirus. Conozca  detalladamente lo que dice la OPS sobre el SARS-CoV2.
+            p <b style="color:#E3934E !important">Enlace web.</b> <b>Coronavirus.</b> Conozca  detalladamente lo que dice la OPS sobre el SARS-CoV2.
 
     Separador
 
@@ -46,14 +46,14 @@
         p.mb-4 <b>Ahora bien, el Artículo 4° de la Ley 1562 de 2012 y el Decreto 1477 del 2014 en la tabla de enfermedades define:</b>
         p “Enfermedad laboral aquella que es contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar. El Gobierno Nacional determinará, en forma periódica, las enfermedades que se consideran como laborales y en los casos en que una enfermedad no figure en la tabla de enfermedades laborales, pero se demuestre la relación de causalidad con los factores de riesgo ocupacionales será reconocida como enfermedad laboral”, conforme a lo establecido en las normas legales vigentes. El Artículo 13 del Decreto 538 del 202 incluyó el COVID 19 como enfermedad laboral directa, respecto a los trabajadores del sector salud.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right") 
           img(src='@/assets/curso/tema6/img03.png')
 
-    p.mb-5 Hay que recordar que para que se produzca una enfermedad laboral se debe dar la combinación de tres factores el agente, el huésped y el medio, lo que es conocido como la <b>tríada ecológica</b>, en consecuencia, en la infección viral producida por <b>SARS-CoV-2</b> se debe tener en cuenta:
+    p.mb-5 Hay que recordar que para que se produzca una enfermedad laboral se debe dar la combinación de tres factores: el agente, el huésped y el medio, lo que es conocido como la <b>tríada ecológica</b>, en consecuencia, en la infección viral producida por <b>SARS-CoV-2</b> se debe tener en cuenta:
 
     .row.justify-content-center.mb-5
       .col-lg-3
-        figure
+        figure(data-aos="flip-left") 
           img(src='@/assets/curso/tema6/img04.svg')
       .col-lg-6
         ul.lista-ul--color.t1.ms-4
@@ -71,7 +71,7 @@
     p.mb-4  La propuesta de este programa de vigilancia epidemiológica para riesgo biológico se desarrolla a partir del ciclo PHVA que consiste en Planear – Hacer – Verificar – Actuar.
     p.mb-5 A continuación, cada uno:
 
-    TabsA.color-primario.mb-5
+    TabsA.color-primario.mb-5(data-aos="zoom-in") 
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
@@ -113,18 +113,18 @@
         .row.justify-content-center
           .col-lg-9
             ul.lista-ul--color.t3.ms-3        
-              li 
+              li(style="display:inline-block")
                 i.lista-ul__vineta
-                | <b>Controles de ingeniería:</b> intervención en el ambiente de trabajo.
-              li 
+                | <b>Controles de ingeniería: </b> intervención en el ambiente de trabajo.
+              li(style="display:inline-block")
                 i.lista-ul__vineta
-                | <b>Controles administrativos:</b> señalización, inspección, protocolos de bioseguridad.
-              li 
+                | <b>Controles administrativos: </b> señalización, inspección, protocolos de bioseguridad.
+              li(style="display:inline-block")
                 i.lista-ul__vineta
-                | <b>Controles en las personas:</b> exámenes médicos, capacitación, vacunación, encuesta de autorreporte, elementos de protección personal.
-              li 
+                | <b>Controles en las personas: </b> exámenes médicos, capacitación, vacunación, encuesta de autorreporte, elementos de protección personal.
+              li(style="display:inline-block")
                 i.lista-ul__vineta
-                | <b>Garantizar el control de cambios:</b> actualizar los documentos.
+                | <b>Garantizar el control de cambios: </b> actualizar los documentos.
 
           .col-lg-3
             figure
@@ -156,7 +156,7 @@
             figure
               img(src='@/assets/curso/tema6/img08.svg')
     br
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-left") 
       .col-lg-10
         .tarjeta.color-acento-contenido.fondo-t6.p-3.mb-5
           .row.justify-content-around.align-items-center
@@ -166,7 +166,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.texto-blanco Enlace Web - COVID-19
-                  p.text-small.texto-blanco Para mejorar el conocimiento sobre la implementación de programas de <br>vigilancia epidemiológica del COVID-19 puede consultar este enlace.
+                  p.text-small.texto-blanco Para mejorar el conocimiento sobre la implementación de programas de vigilancia epidemiológica del COVID-19 puede consultar este enlace.
                 .col-sm-auto
                   a.boton.color-primario(style="background-color: #FAD369 !important" :href="obtenerLink('/downloads/2020_06_25_17_05_33_29196.pdf')" target="_blank")
                     span Ir al sitio
@@ -177,12 +177,12 @@
 
     p.text-center.mb-4 <b>De acuerdo con esta resolución, las siguientes son las medidas generales recomendadas:</b>
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="flip-left") 
       .col-lg-10
         figure
               img(src='@/assets/curso/tema6/img09.svg')
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="slide-right") 
       .col-lg-8
         a.anexo.mb-4(:href="obtenerLink('/downloads/Resolución No. 777 de 2021.pdf')" target="_blank")
           .anexo__icono

@@ -6,9 +6,9 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1  Revisión de la gestión de condiciones de trabajo
+      h1  Revisión de la gestión de las condiciones de salud
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")  
       .col-lg-10
         .bloque-texto-f.color-secundario.div2.pt-4.px-5.mb-5
           .bloque-texto-f__comillas.div2
@@ -16,12 +16,13 @@
             i.fas.fa-quote-right
           p.text-regular.bloque-texto-f__texto De acuerdo con el Decreto 1072 del 2015 “las condiciones de salud son el conjunto de variables objetivas y de autorreporte de condiciones fisiológicas, psicológicas y socioculturales que determinan el perfil sociodemográfico y de morbilidad de la población trabajadora”.
     
-    .row.mb-5
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/tema5/img01.svg')
-      .col-lg-8
-        p.mb-4 Algunos aspectos medioambientales y tecnológicos, el ambiente laboral, las características de las tareas, las condiciones sociales, los tipos comportamentales, los diferentes niveles de educación, los grupos etáreos y aspectos culturales influyen en la salud de los trabajadores.
+    .row.mb-5(data-aos="flip-right")  
+      .col-lg-5.d-flex.justify-content-center.align-items-center
+        div
+          figure
+            img(src='@/assets/curso/tema5/img01.svg')
+      .col-lg-7
+        p.mb-4 Algunos aspectos medioambientales y tecnológicos, el ambiente laboral, las características de las tareas, las condiciones sociales, los tipos comportamentales, los diferentes niveles de educación, los grupos etarios y aspectos culturales influyen en la salud de los trabajadores.
         p.mb-5 Como parte del proceso de la gestión de las condiciones de salud es importante que las empresas u organizaciones revisen permanentemente los siguientes aspectos:
 
         ul.lista-ul--color.t1.ms-4
@@ -45,12 +46,13 @@
     #t_5_1.titulo-segundo
       h2 5.1 Actualización de perfiles sociodemográficos
             
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-out")  
       .col-lg-10
-        figure.mb-5
+        figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
+    Separador
 
     #t_5_2.titulo-segundo
       h2 5.2 Gestión de exámenes médicos ocupacionales y ausentismo laboral
@@ -62,15 +64,15 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         PasosA.color-primario.mb-5(tipo="n")
-          p Verificar proveedores que sean médicos especialistas en medicina del trabajo o salud ocupacional, con licencia vigente en salud ocupacional.
-          p Definir la frecuencia de las evaluaciones médicas ocupacionales periódicas según tipo, magnitud, frecuencia de exposición a cada peligro, el estado de salud del trabajador, las recomendaciones de los sistemas de vigilancia epidemiológica y la legislación vigente.
-          p Informar al médico que realiza las evaluaciones el profesiograma, describiendo tareas, medio en el que se desarrolla la labor respectiva.
-          p Realizar las evaluaciones médicas de acuerdo con la normatividad y los peligros/riesgos a los cuales se encuentre expuesto el trabajador.
-          p Comunicar por escrito al trabajador los resultados de las evaluaciones médicas ocupacionales los cuales reposarán en su historia médica.
-          p Tener la custodia de las historias clínicas a cargo de una institución prestadora de servicios de salud o del médico que practica las evaluaciones médicas ocupacionales.
-          p Cumplir las restricciones y recomendaciones realizadas por parte de la Empresa Promotora de Salud (EPS) o la Administradora de Riesgos Laborales (ARL) prescritas a los trabajadores para la realización de sus funciones.
-          p Mantener evidencias de cumplimiento de las acciones requeridas en materia de reubicación o readaptación y aplicar las restricciones recomendadas por parte de la Empresa Promotora de Salud (EPS) o la Administradora de Riesgos Laborales (ARL) prescritas a los trabajadores para la realización de sus funciones.
-          p Mantener bases de datos actualizadas de ausentismo por causa médica y de accidentes de trabajo que se presenten en la organización, analizar estos registros y proponer planes para el mejoramiento del sistema, de acuerdo con las conclusiones del análisis.
+          p(data-aos="flip-right")   Verificar proveedores que sean médicos especialistas en medicina del trabajo o salud ocupacional, con licencia vigente en salud ocupacional.
+          p(data-aos="flip-left") Definir la frecuencia de las evaluaciones médicas ocupacionales periódicas según tipo, magnitud, frecuencia de exposición a cada peligro, el estado de salud del trabajador, las recomendaciones de los sistemas de vigilancia epidemiológica y la legislación vigente.
+          p(data-aos="flip-right") Informar al médico que realiza las evaluaciones el profesiograma, describiendo tareas, medio en el que se desarrolla la labor respectiva.
+          p(data-aos="flip-left") Realizar las evaluaciones médicas de acuerdo con la normatividad y los peligros/riesgos a los cuales se encuentre expuesto el trabajador.
+          p(data-aos="flip-right") Comunicar por escrito al trabajador los resultados de las evaluaciones médicas ocupacionales los cuales reposarán en su historia médica.
+          p(data-aos="flip-left") Tener la custodia de las historias clínicas a cargo de una institución prestadora de servicios de salud o del médico que practica las evaluaciones médicas ocupacionales.
+          p(data-aos="flip-right") Cumplir las restricciones y recomendaciones realizadas por parte de la Empresa Promotora de Salud (EPS) o la Administradora de Riesgos Laborales (ARL) prescritas a los trabajadores para la realización de sus funciones.
+          p(data-aos="flip-left") Mantener evidencias de cumplimiento de las acciones requeridas en materia de reubicación o readaptación y aplicar las restricciones recomendadas por parte de la Empresa Promotora de Salud (EPS) o la Administradora de Riesgos Laborales (ARL) prescritas a los trabajadores para la realización de sus funciones.
+          p(data-aos="flip-right") Mantener bases de datos actualizadas de ausentismo por causa médica y de accidentes de trabajo que se presenten en la organización, analizar estos registros y proponer planes para el mejoramiento del sistema, de acuerdo con las conclusiones del análisis.
 
     p El registro de estos exámenes debe mantenerse actualizado durante todo el año y además conservarse el del año inmediatamente anterior al de la visita, adicional se debe tener el análisis de estos registros y las conclusiones derivadas del estudio, las cuales son utilizadas para el mejoramiento del Sistema de Gestión de SST.
 
@@ -79,7 +81,7 @@
     #t_5_3.titulo-segundo
       h2 5.3 Estilos de vida y entorno saludable
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4  La salud de los trabajadores depende de varias variables como el sexo, la edad, el ambiente de trabajo, la higiene, la alimentación, la actitud, la actividad física, el tabaquismo, el consumir bebidas alcohólicas y el consumo de sustancias psicoactivas, entre otras.
         p.mb-4 La Organización Mundial de la Salud (OMS) define la salud como un estado de completo bienestar físico, mental y social, mantener a los colaboradores saludables es uno de los objetivos del sistema, en consecuencia, para llevar una vida sana hay que tener un estilo de vida saludable del que forman parte: la alimentación, el ejercicio físico, la prevención de la salud, el trabajo, la relación con el medio ambiente y la actividad social.
@@ -87,15 +89,16 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/tema5/img02.png')
+          figcaption https://pixabay.com/es/photos/yoga-gimnasio-ejercicio-de-salud-3053487/
 
     p Todas las empresas u organizaciones deben realizar un programa para promover estilos de vida saludables y proporcionar entornos de trabajo saludable, para lo cual realizará campañas específicas destinadas a la prevención y el control de la farmacodependencia, el alcoholismo, el tabaquismo, la actividad física, entre otros.
 
-    .cajon.color-primario.p-5.mb-4
+    .cajon.color-primario.p-5.mb-4(data-aos="fade-left")
       .row.justify-content-center
         .col-lg-7
           p.mb-0 En el marco de la pandemia producida por el SARS- CoV2 y apoyados en la Resolución 777 del 2021, en este programa se pueden incluir medidas de autocuidado, pausas activas que ayuden al cuidado de la salud física y mental de los colaboradores. Este programa debe estar documentado al igual que las evidencias de cumplimiento, las cuales pueden ser listados de capacitación, fichas de la capacitación, material fotográfico o audiovisual.
         .col-lg-5
-          figure
+          figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema5/img03.svg')
 
        
@@ -115,7 +118,7 @@
     Separador
 
     #t_5_5.titulo-segundo
-      h2 5.5 Registro, reporte e investigación de las enfermedades laborales, incidentes y accidentes del trabajo
+      h2 5.5 Registro, reporte e investigación de las enfermedades laborales, incidentes y accidentes de trabajo
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -127,10 +130,10 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.d-flex
-        div.cajon.color-primario.p-5(style="background-color:#FEF6E1 !important")
+        div.cajon.color-primario.p-5(data-aos="flip-right" style="background-color:#FEF6E1 !important")
           p.mb-0 De igual forma, se considera accidente de trabajo el que se produzca por la ejecución de actividades recreativas, deportivas o culturales, cuando se actúe por cuenta o en representación del empleador o de la empresa usuaria cuando se trate de trabajadores de empresas de servicios temporales que se encuentren en misión.
       .col-lg-6.d-flex
-        div.cajon.color-primario.p-5(style="background-color:#FCF0E5 !important")
+        div.cajon.color-primario.p-5(data-aos="flip-left" style="background-color:#FCF0E5 !important")
           p.mb-4 <b>Ejemplos de accidentes de trabajo:</b>
           ul.lista-ul--color.t1.ms-4
             li
@@ -154,23 +157,23 @@
       .col-lg-9
         ol.lista-ol--cuadro.lista-ol--separador
           li 
-          li 
+          li(data-aos="fade-right")
             .lista-ol--cuadro__vineta
               span 1
             | Reportar a la ARL los accidentes de trabajo y enfermedades laborales.
-          li 
+          li(data-aos="fade-left")
             .lista-ol--cuadro__vineta
               span 2
             | Investigar todos los incidentes y accidentes de trabajo.
-          li 
+          li(data-aos="fade-right")
             .lista-ol--cuadro__vineta
               span 3
             | Todas las organizaciones deben mantener un registro estadístico de los accidentes de trabajo que sucedan, así como de las enfermedades laborales que se hayan presentado; estos datos deben ser estudiados y de acuerdo con el análisis y las conclusiones derivadas del estudio deben ser usadas como insumo para el mejoramiento del Sistema de Gestión de SST.
-          li
+          
       
     Separador
 
-    #t_5_5.titulo-segundo
+    #t_5_6.titulo-segundo
       h2 5.6	Mecanismos de vigilancia de las condiciones de salud de los trabajadores 
 
     p.mb-0 En el Artículo 30 de la Resolución 0312 se establecen los indicadores mínimos exigidos en seguridad y salud en el trabajo para todas las empresas, desde el año 2019 y anualmente se debe tener registro. En consecuencia, todos los empleadores deben tener bases de datos de ausentismo laboral por causa médica y por accidente de trabajo, evaluadas, analizadas y, a partir de los datos obtenidos proponer los planes de acción para la mejora del sistema.
@@ -183,7 +186,7 @@
       p.mb-0 <b>Tabla 2</b>
       p.mb-0 Indicadores de seguridad y salud en el trabajo
 
-    .tabla-a.color-secundario.mb-5 
+    .tabla-a.color-secundario.mb-5(data-aos="zoom-in") 
           table            
             thead
               tr
@@ -194,41 +197,41 @@
                 th Periodicidad mínima     
             tbody
               tr
-                td <b>Frecuencia de accidentalidad</b>
+                td(align='center')  <b>Frecuencia de accidentalidad</b>
                 td Número de veces que ocurre un accidente de trabajo en el mes
                 td (Número de accidentes de trabajo que se presentaron en el mes / Número de trabajadores en el mes) * 100
                 td Por cada (100) trabajadores que laboraron en el mes, se presentaron X accidentes de trabajo
-                td Mensual                
+                td(align='center')  Mensual                
               tr
-                td <b>Severidad de accidentalidad</b>
+                td(align='center')  <b>Severidad de accidentalidad</b>
                 td Número de días perdidos por accidentes de trabajo en el mes
                 td (Número de días de incapacidad por accidente de trabajo en el mes + número de días cargados en el mes / Número de trabajadores en el mes) * 100
                 td Por cada (100) trabajadores que laboraron en el mes, se perdieron X días por accidente de trabajo
-                td Mensual                
+                td(align='center')  Mensual                
               tr
-                td <b>Proporción de accidentes de trabajo mortales </b>
+                td(align='center')  <b>Proporción de accidentes de trabajo mortales </b>
                 td Número de accidentes mortales en el año 
                 td Número de accidentes de trabajo mortales que se presentan en el año / (Total de accidentes de trabajo que se presentaron en el año) * 100
                 td En el año el X % de accidentes de trabajo fueron mortales
-                td Anual                
+                td(align='center')  Anual                
               tr
-                td <b>Prevalencia de la enfermedad laboral</b>
+                td(align='center')  <b>Prevalencia de la enfermedad laboral</b>
                 td Número de casos de enfermedad laboral presentes en una población en un período de tiempo 
                 td Número de casos nuevos y antiguos de enfermedad laboral en el período Z / (Promedio de trabajadores en el periodo Z) * 100.000
                 td Por cada 100.000 trabajadores existen X casos de enfermedad laboral en el período Z
-                td Anual                
+                td(align='center')  Anual                
               tr
-                td <b>Incidencia de la enfermedad laboral </b>
+                td(align='center')  <b>Incidencia de la enfermedad laboral </b>
                 td Número de casos nuevos de enfermedad laboral en una población en un período de tiempo 
                 td Número de casos nuevos de enfermedad laboral en el período Z / (Promedio de trabajadores en el periodo Z) * 100.000
                 td Por cada 100.000 trabajadores existen X casos nuevos de enfermedad laboral en el período Z
-                td Anual                
+                td(align='center')  Anual                
               tr
-                td <b>Ausentismo por causa médica</b>
+                td(align='center')  <b>Ausentismo por causa médica</b>
                 td Es la no asistencia al trabajo con incapacidad médica
-                td Número de días de ausencia por incapacidad laboral o común en el mes /(Número de día de trabajo programados en el mes)*100 
+                td Número de días de ausencia por incapacidad laboral o común en el mes /(Número de días de trabajo programados en el mes)*100 
                 td En el mes se perdió X % de días programados de trabajo por incapacidad médica
-                td Mensual
+                td(align='center')  Mensual
 
 </template>
 

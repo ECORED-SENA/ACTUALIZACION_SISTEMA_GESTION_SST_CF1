@@ -13,9 +13,9 @@
 
     .row.mb-5
       .col-lg-5
-        figure
+        figure(data-aos="zoom-in")  
           img(src='@/assets/curso/tema3/img01.svg') 
-      .col-lg-7
+      .col-lg-7(data-aos="zoom-out")  
         .bloque-texto-f.color-acento-botones.div1.pt-4.px-5.mb-5
           .bloque-texto-f__comillas.div1
             i.fas.fa-quote-left
@@ -64,7 +64,7 @@
            
     p.mb-4.text-center Es importante adicionalmente la revisión de algunos artículos de la Resolución 0312 del 2019, esto es:           
 
-    .tarjeta.tarjeta--gris.p-4.mb-5(style="background-color: #FEF6E1 !important")    
+    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-in" style="background-color: #FEF6E1 !important")    
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center(titulo="Artículo 1")
           .col-md-4
@@ -88,7 +88,7 @@
               img(src='@/assets/curso/tema3/img04.png')
           .col-md-7
             b Artículo 25 
-            p establece las fases para la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo de acuerdo con los estándares mínimos.
+            p Establece las fases para la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo de acuerdo con los estándares mínimos.
 
         .row.justify-content-center(titulo="Artículo 26")
           .col-md-4
@@ -173,7 +173,7 @@
 
     p.mb-5 Se debe tener en cuenta que en cada uno de los ítems se deben calificar con los porcentajes máximos o mínimos, de acuerdo con lo establecido en la tabla de valores y con el cumplimiento del ítem del estándar que tiene la empresa.
 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-right")  
       .col-lg-8
         a.anexo.mb-4(:href="obtenerLink('/downloads/CARTILLA-NUEVOS-ESTANDARES-MINIMOS.pdf')" target="_blank")
           .anexo__icono
@@ -184,13 +184,13 @@
     p.mb-4 En las empresas de menos de cincuenta trabajadores clasificados con riesgo I, II o III, de acuerdo con lo establecido en la Resolución 0312 del 2019, en los ítems que no les corresponda cumplir se califica con el porcentaje máximo de calificación en la columna “No aplica” frente al ítem correspondiente.
     p.mb-5 Cabe resaltar al terminar la autoevaluación tener en cuenta que debe ser firmada por el empleador o contratante y el responsable de la ejecución del sistema.   
                         
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-left")  
       .col-lg-8
         a.anexo.mb-4(:href="obtenerLink('/downloads/TablaValores.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-doc.svg")
           .anexo__texto
-            p <b>Anexo.</b> Anexo. Con el fin de ampliar la información sobre la autoevaluación, descargue el siguiente documento en Excel, denominado Lista de chequeo/autoevaluación revisión tabla de valores y su clasificación.
+            p <b>Anexo.</b> Con el fin de ampliar la información sobre la autoevaluación, descargue el siguiente documento en Word, denominado Lista de chequeo/autoevaluación revisión tabla de valores y su clasificación.
                    
     p Si la evaluación inicial del SG-SST determina un <b>estado aceptable</b> es porque se cuenta con un Sistema de Gestión de Seguridad y Salud en el Trabajo enfocado en la mejora continua, los objetivos estarán orientados en mantener el indicador de cumplimiento de acuerdo con esta normativa, además a continuar con los controles para los peligros identificados y mantener una mejora continua del SG-SST, mediante acciones preventivas, correctivas y de mejora con base en los resultados de la evaluación.
 </template>

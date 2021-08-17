@@ -31,23 +31,23 @@
               | Ser revisada como mínimo una vez al año y de requerirse, actualizarse acorde con los cambios tanto en materia de Seguridad y Salud en el Trabajo (SST) como los cambios en la empresa.
 
       .col-lg-4
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img01.png') 
 
     p.mb-5 <b>Es muy importante tener presente lo que se menciona en el Artículo 2.2.4.6.7 del Decreto 1072 de 2015, que define los objetivos mínimos que debe incluir la política de seguridad y salud en el trabajo (SST), sobre los cuales la organización expresa su compromiso, que son los siguientes:</b> 
 
     .row
-      .col-lg-4.t1.div1.d-flex
-        div          
+      .col-lg-4.t1.div1.d-flex(data-aos="fade-right")  
+        div        
           figure.mb-5
             img(src='@/assets/curso/tema1/img02.svg') 
           p.px-5 <b>1.</b> Identificar los peligros, evaluar y valorar los riesgos y, establecer los respectivos controles.
       .col-lg-4.t1.div2.d-flex
         div
-          figure.mb-5
+          figure.mb-5(data-aos="zoom-in")  
             img(src='@/assets/curso/tema1/img03.svg')
           p.px-5 <b>2.</b> Proteger la seguridad y salud de todos los trabajadores mediante la mejora continua del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) en la empresa.          
-      .col-lg-4.t1.div3.d-flex
+      .col-lg-4.t1.div3.d-flex(data-aos="fade-left")  
         div
           figure.mb-5
             img(src='@/assets/curso/tema1/img04.svg')
