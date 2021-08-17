@@ -85,7 +85,7 @@
     .row.mb-4.justify-content-center(data-aos="fade-in") 
       .col-lg-10
         figure.mb-5
-          img(src='@/assets/curso/tema4/img04.svg')
+          img(src='@/assets/curso/tema4/img04.png')
           figcaption Nota. Tomado de http://132.255.23.82/sipnvo/normatividad/GTC_45_DE_2012.pdf
 
         p Lo importante es determinar el nivel de riesgo, según el ICONTEC “la magnitud del riesgo resultante del producto del nivel de probabilidad por el nivel de consecuencia” (ICONTEC, 2012). En otras palabras, es la combinación de la probabilidad de que el peligro se materialice.
@@ -106,7 +106,7 @@
         p.mb-4 A continuación, como se muestra en la siguiente tabla, podrá observar como ejemplo la clasificación de aceptabilidad del riesgo.
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema4/img05.svg')
+          img(src='@/assets/curso/tema4/img05.png')
 
     .row.mb-5.justify-content-center
       .col-lg-3.px-5.d-flex.justify-content-end
@@ -154,8 +154,8 @@
 
     p.text-center.mb-5 <b>A continuación, se expondrán los principales peligros a los que pueden estar expuestos los trabajadores dentro de su jornada laboral.</b>
 
-    LineaTiempoD.color-secundario.t4
-        div(numero="1" titulo="Peligro biológico")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul acordeon")    
+        div(numero="1" titulo="1. Peligro biológico")
           .row.justify-content-center.mb-5
             .col-lg-3
               figure
@@ -221,7 +221,7 @@
                img(src='@/assets/curso/tema4/img10.svg')
           
 
-        div(numero="2" titulo="Peligro psicosocial")
+        div(numero="2" titulo="2. Peligro psicosocial")
           .row.mb-5
             .col-lg-3
               figure.px-4
@@ -303,7 +303,7 @@
               figure.px-3
                   img(src='@/assets/curso/tema4/img14.svg')
 
-        div(numero="3" titulo="Peligro biomecánico")  
+        div(numero="3" titulo="3. Peligro biomecánico")  
           .row.mb-5
             .col-lg-4
               figure.px-4
@@ -318,7 +318,7 @@
             figure.px-5
                   img(src='@/assets/curso/tema4/img16.svg')
 
-        div(numero="4" titulo="Peligro químico")  
+        div(numero="4" titulo="4. Peligro químico")  
           .row.mb-5          
             .col-lg-5
               p Producido por contacto e inhalación de sustancias químicas como polvos, gases, vapores, fibras, líquidos (nieblas y rocíos), sólidos, material particulado, humos metálicos y no metálicos, las cuales puede producir efectos indeseados en el trabajador, que pueden ser agudos o crónicos y/o provocar la aparición de enfermedades. Sus efectos dependen de la naturaleza del producto, la vía de penetración, el tiempo de exposición y la predisposición del trabajador, entre otras.
@@ -347,7 +347,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img18.svg')
 
-        div(numero="5" titulo="Peligro físico")     
+        div(numero="5" titulo="5. Peligro físico")     
           p.mb-5 Son aquellas situaciones del ambiente de naturaleza física que pueden provocar efectos dañinos a la salud de los trabajadores de acuerdo con la concentración, tiempo de exposición e intensidad del contaminante, de estos peligros se pueden realizar mediciones ambientales, dentro de los que se encuentran: 
 
           div.div-blanco.p-5.mb-5
