@@ -41,10 +41,10 @@
             img(src='@/assets/curso/tema4/img03.svg')
       p.text-center <b>Existen varias metodologías para la identificación de peligros, evaluación y valoración de los riesgos, entre las que se encuentran:</b>
       .row.justify-content-center
-        .col-lg-6.ps-5(style="border-right:3px dotted #B9B2A1")
-          p.mb-0 La metodología de la Guía Técnica Colombiana GTC-45 de 2012 es emitida por el ICONTEC. Esta guía es un instrumento técnico diseñado para la identificación de peligros, la evaluación y valoración de los riesgos, muestra definiciones y conceptos como: accidentes de trabajo, las actividades rutinarias y no rutinarias, análisis de riesgo, diagnóstico de condiciones de salud, elementos de protección personal, enfermedad profesional, evaluación de riesgos, identificación de peligros, entre otros.
-        .col-lg-6.pe-5
-          p.mb-0 Guía Técnica de Implementación del SG-SST para mipymes del Ministerio de Trabajo, para el efecto se debe tener en cuenta la legislación vigente, los cambios de los procesos, procedimientos, personal, instalaciones y asegurar la inclusión de todas las actividades rutinarias y no rutinarias de las empresas. En caso de que la empresa sea una mipyme (micro, mediana o pequeña empresa) y no presente actividades de alto riesgo.
+        .col-lg-6.ps-5.pe-5(style="border-right:3px dotted #B9B2A1")
+          p.mb-4 La metodología de la Guía Técnica Colombiana GTC-45 de 2012 es emitida por el ICONTEC. Esta guía es un instrumento técnico diseñado para la identificación de peligros, la evaluación y valoración de los riesgos, muestra definiciones y conceptos como: accidentes de trabajo, las actividades rutinarias y no rutinarias, análisis de riesgo, diagnóstico de condiciones de salud, elementos de protección personal, enfermedad profesional, evaluación de riesgos, identificación de peligros, entre otros.
+        .col-lg-6.ps-5.pe-5
+          p.mb-4 Guía Técnica de Implementación del SG-SST para mipymes del Ministerio de Trabajo, para el efecto se debe tener en cuenta la legislación vigente, los cambios de los procesos, procedimientos, personal, instalaciones y asegurar la inclusión de todas las actividades rutinarias y no rutinarias de las empresas. En caso de que la empresa sea una mipyme (micro, mediana o pequeña empresa) y no presente actividades de alto riesgo.
 
     p.text-center <b>Los pasos generales para la actualización de la matriz de identificación de peligros y la valoración de los riesgos de la empresa son los siguientes:</b>
 

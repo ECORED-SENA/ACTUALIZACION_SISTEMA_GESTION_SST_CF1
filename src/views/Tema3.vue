@@ -59,8 +59,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 8
-            | Registro y seguimiento a los resultados de los indicadores definidos en el SGSST de la empresa del año inmediatamente anterior.”
-          li    
+            | Registro y seguimiento a los resultados de los indicadores definidos en el SGSST de la empresa del año inmediatamente anterior.”             
            
     p.mb-4.text-center Es importante adicionalmente la revisión de algunos artículos de la Resolución 0312 del 2019, esto es:           
 

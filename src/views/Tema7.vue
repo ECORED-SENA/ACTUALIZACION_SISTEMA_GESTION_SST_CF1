@@ -89,7 +89,7 @@
             .lista-ol--cuadro__vineta
               span 4
             | Los diferentes recursos administrativos y financieros destinados para la realización de las acciones de mejora.
-          li 
+          li.pb-3 
             .lista-ol--cuadro__vineta
               span 5
             | Fundamentos y soportes de la efectividad de las acciones, actividades a subsanar y prevenir que se presenten en el futuro hechos o situaciones que afecten el bienestar y la salud de los trabajadores o personas que prestan servicios en las empresas.

@@ -165,7 +165,7 @@
             .lista-ol--cuadro__vineta
               span 2
             | Investigar todos los incidentes y accidentes de trabajo.
-          li(data-aos="fade-right")
+          li(data-aos="fade-right").pb-3
             .lista-ol--cuadro__vineta
               span 3
             | Todas las organizaciones deben mantener un registro estadístico de los accidentes de trabajo que sucedan, así como de las enfermedades laborales que se hayan presentado; estos datos deben ser estudiados y de acuerdo con el análisis y las conclusiones derivadas del estudio deben ser usadas como insumo para el mejoramiento del Sistema de Gestión de SST.
