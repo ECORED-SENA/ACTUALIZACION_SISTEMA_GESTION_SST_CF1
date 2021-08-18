@@ -9,8 +9,8 @@
       h1 Actualización del plan de trabajo anual de SG-SST de acuerdo con los planes de mejora
 
     figure(data-aos="zoom-in") 
-      .video     
-        iframe(width="1280" height="720" src="https://www.youtube.com/embed/tKSTXMd8oG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video           
+        iframe(iframe width="1255" height="706" src="https://www.youtube.com/embed/esZNJmokj_o?list=PLkc5n6npRWkhCFlQiyaDFZ0tLzyMm6BpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
