@@ -361,24 +361,24 @@ export default {
       },
       {
         nombre: 'Consuelo Sánchez Pérez',
-        cargo: 'Experta Temática SENA',
+        cargo: 'Instructora',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Gloria Amparo Lopez Escudero',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Evaluador Instruccional',
+        cargo: 'Evaluadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
         centro:
-          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

@@ -56,7 +56,7 @@
             .lista-ol--cuadro__vineta
               span 7 
             | La descripción sociodemográfica de los trabajadores y la caracterización de sus condiciones de salud, así como la evaluación y análisis de las estadísticas sobre la enfermedad y la accidentalidad.
-          li 
+          li.pb-3 
             .lista-ol--cuadro__vineta
               span 8
             | Registro y seguimiento a los resultados de los indicadores definidos en el SGSST de la empresa del año inmediatamente anterior.”             

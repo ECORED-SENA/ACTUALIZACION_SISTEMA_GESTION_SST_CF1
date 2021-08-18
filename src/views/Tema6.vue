@@ -113,16 +113,16 @@
         .row.justify-content-center
           .col-lg-9
             ul.lista-ul--color.t3.ms-3        
-              li(style="display:inline-block margin:0px")
+              li(style="display:inline-block;")
                 i.lista-ul__vineta
                 | <b>Controles de ingeniería: </b> intervención en el ambiente de trabajo.
-              li(style="display:inline-block margin:0px")
+              li(style="display:inline-block ")
                 i.lista-ul__vineta
                 | <b>Controles administrativos: </b> señalización, inspección, protocolos de bioseguridad.
-              li(style="display:inline-block margin:0px")
+              li(style="display:inline-block ")
                 i.lista-ul__vineta
                 | <b>Controles en las personas: </b> exámenes médicos, capacitación, vacunación, encuesta de autorreporte, elementos de protección personal.
-              li(style="display:inline-block margin:0px")
+              li(style="display:inline-block")
                 i.lista-ul__vineta
                 | <b>Garantizar el control de cambios: </b> actualizar los documentos.
 
