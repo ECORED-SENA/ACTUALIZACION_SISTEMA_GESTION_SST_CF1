@@ -53,7 +53,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3
-        figure(data-aos="flip-left") 
+        figure.mb-3(data-aos="flip-left") 
           img(src='@/assets/curso/tema6/img04.svg')
       .col-lg-6
         ul.lista-ul--color.t1.ms-4

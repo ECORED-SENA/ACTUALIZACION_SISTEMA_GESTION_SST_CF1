@@ -8,9 +8,9 @@
         span 5
       h1  Revisión de la gestión de las condiciones de salud
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in")  
+    .row.justify-content-center(data-aos="zoom-in")  
       .col-lg-10
-        .bloque-texto-f.color-secundario.div2.pt-4.px-5.mb-5
+        .bloque-texto-f.color-secundario.div2.pt-4.px-5
           .bloque-texto-f__comillas.div2
             i.fas.fa-quote-left
             i.fas.fa-quote-right
@@ -19,7 +19,7 @@
     .row.mb-5(data-aos="flip-right")  
       .col-lg-5.d-flex.justify-content-center.align-items-center
         div
-          figure
+          figure.mb-4
             img(src='@/assets/curso/tema5/img01.svg')
       .col-lg-7
         p.mb-4 Algunos aspectos medioambientales y tecnológicos, el ambiente laboral, las características de las tareas, las condiciones sociales, los tipos comportamentales, los diferentes niveles de educación, los grupos etarios y aspectos culturales influyen en la salud de los trabajadores.
