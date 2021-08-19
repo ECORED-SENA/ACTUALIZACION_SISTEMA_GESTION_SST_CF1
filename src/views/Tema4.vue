@@ -483,6 +483,11 @@
               div.px-5
                 h4.titulo-naranja Riesgo por espacios confinados
                 p.mb-5 Son recintos con aberturas limitadas tanto de entrada como de salida de aire, en donde generalmente la ventilación natural no es buena, con posibles consecuencias como presentar deficiencia de oxígeno. La presencia de sustancias químicas y/o sustancias inflamables pueden generar accidentes por asfixia, intoxicación, explosión, etc.                              
+                
+                .row.justify-content-center
+                    .col-lg-6
+                      figure.px-3
+                        img(src='@/assets/curso/tema4/img31.svg')     
 
               div.px-5
                 .row.justify-content-center
