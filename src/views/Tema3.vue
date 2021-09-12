@@ -9,7 +9,7 @@
       h1  Revisión de la tabla de valores y clasificación de los estándares mínimos
 
     p.mb-4 Teniendo en cuenta la variedad de contextos de las diferentes organizaciones se identificó la necesidad de realizar ajustes a la Resolución 1111 del 2017, por lo que se emitió la Resolución 0312 del 2019, de estándares mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo.
-    p.mb-5 Los estándares mínimos establecidos en la Resolución 0312 verifican por medio de una lista de chequeo y siguiendo el ciclo PHVA el cumplimiento de la implementación del sistema. Esta autoevaluación es una herramienta de valoración objetiva del cumplimiento y desarrollo del SG SST, permite tener claridad con respecto a lo que se cumplió y de lo que falta por hacer, de tal manera que lo que no se implementó se realice con un plan de mejora, con el fin de realizar el respectivo ajuste.
+    p.mb-5 Los estándares mínimos establecidos en la Resolución 0312 verifican por medio de una lista de chequeo y siguiendo el ciclo PHVA el cumplimiento de la implementación del sistema. Esta autoevaluación es una herramienta de valoración objetiva del cumplimiento y desarrollo del SG-SST, permite tener claridad con respecto a lo que se cumplió y de lo que falta por hacer, de tal manera que lo que no se implementó se realice con un plan de mejora, con el fin de realizar el respectivo ajuste.
 
     .row.mb-5
       .col-lg-5
@@ -20,7 +20,7 @@
           .bloque-texto-f__comillas.div1
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          p.text-regular.bloque-texto-f__texto Ahora bien, el Decreto 1072 del 2015, en el Artículo 2.2.4.6.16., señala que todos los empleadores tienen la obligación de realizar una evaluación inicial del SG SST, cuyo objetivo es reconocer las necesidades en seguridad y salud en el trabajo y, además deben realizar un análisis de las estadísticas sobre la enfermedad y accidentes laborales ocurridos en los últimos dos años, y de acuerdo con estos resultados establecer o actualizar el plan de trabajo anual.
+          p.text-regular.bloque-texto-f__texto Ahora bien, el Decreto 1072 del 2015, en el Artículo 2.2.4.6.16., señala que todos los empleadores tienen la obligación de realizar una evaluación inicial del SG-SST, cuyo objetivo es reconocer las necesidades en seguridad y salud en el trabajo y, además deben realizar un análisis de las estadísticas sobre la enfermedad y accidentes laborales ocurridos en los últimos dos años, y de acuerdo con estos resultados establecer o actualizar el plan de trabajo anual.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -59,7 +59,7 @@
           li.pb-3 
             .lista-ol--cuadro__vineta
               span 8
-            | Registro y seguimiento a los resultados de los indicadores definidos en el SGSST de la empresa del año inmediatamente anterior.”             
+            | Registro y seguimiento a los resultados de los indicadores definidos en el SG-SST de la empresa del año inmediatamente anterior.            
            
     p.mb-4.text-center Es importante adicionalmente la revisión de algunos artículos de la Resolución 0312 del 2019, esto es:           
 
@@ -129,7 +129,7 @@
               img(src='@/assets/curso/tema3/img08.png')
           .col-md-7
             b Artículo 32
-            p Establece que todo empleador y contratante que se encuentre obligado a implementar un (PESV), deberá articularlo con el SG SST.
+            p Establece que todo empleador y contratante que se encuentre obligado a implementar un (PESV), deberá articularlo con el SG-SST.
 
         .row.justify-content-center(titulo="Artículo 33")
           .col-md-4
@@ -178,7 +178,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <b>Anexo.</b> Estimado aprendiz para mejorar la comprensión de las tablas de los estándares mínimos de la Resolución 0312 del 2019, que verifican el cumplimiento de la implementación del SG SST, puede descargar la cartilla Nuevos estándares mínimos en seguridad y salud en el trabajo.
+            p <b>Anexo.</b> Estimado aprendiz para mejorar la comprensión de las tablas de los estándares mínimos de la Resolución 0312 del 2019, que verifican el cumplimiento de la implementación del SG-SST, puede descargar la cartilla Nuevos estándares mínimos en seguridad y salud en el trabajo.
 
     p.mb-4 En las empresas de menos de cincuenta trabajadores clasificados con riesgo I, II o III, de acuerdo con lo establecido en la Resolución 0312 del 2019, en los ítems que no les corresponda cumplir se califica con el porcentaje máximo de calificación en la columna “No aplica” frente al ítem correspondiente.
     p.mb-5 Cabe resaltar al terminar la autoevaluación tener en cuenta que debe ser firmada por el empleador o contratante y el responsable de la ejecución del sistema.   

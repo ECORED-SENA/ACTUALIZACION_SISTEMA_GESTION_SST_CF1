@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1  Revisión de los objetivos generales y específicos del SG SST
+      h1  Revisión de los objetivos generales y específicos del SG-SST
 
     p.mb-5 En el Artículo 2.2.4.6.18., del Decreto número 1072 de 2015, están definidos los objetivos del sistema de gestión de la seguridad y salud en el trabajo. Estos objetivos deben estar formulados de acuerdo con la política expresada en la empresa, el resultado de la evaluación inicial y, las auditorías que se hayan realizado deben tener en cuenta entre otros aspectos, los siguientes:
 

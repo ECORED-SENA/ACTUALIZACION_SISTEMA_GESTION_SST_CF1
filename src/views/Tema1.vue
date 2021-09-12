@@ -6,12 +6,12 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1  Revisión de la política del SG SST
+      h1  Revisión de la política del SG-SST
     
     .row.mb-5
       .col-lg-8    
-        p.mb-4 La política del SG-SST de una empresa como parte de las políticas de gestión de la misma es un compromiso gerencial, cuya finalidad es implementar el Sistema de Gestión de Seguridad y Salud en el Trabajo, expresado por escrito, debe ser comunicado al Comité paritario o al vigía de seguridad y salud en el trabajo, con alcance a todos los centros de trabajo y a todos los trabajadores independientes de la forma de contratación o vinculación, incluyendo los contratistas y subcontratistas. El presidente, gerente general o representante legal tiene la responsabilidad de elaborar, documentar, firmar, divulgar y garantizar el cumplimiento de la política del SG-SST.
-        p.mb-5 <b>El Artículo 2.2.4.6.6 del Decreto 1072 del 2015 establece para la política del SG SST los siguientes requisitos:</b>
+        p.mb-4 La política del SG-SST de una empresa como parte de las políticas de gestión de la misma es un compromiso gerencial, cuya finalidad es implementar el Sistema de Gestión de Seguridad y Salud en el Trabajo, expresado por escrito, debe ser comunicado al Comité Paritario o al vigía de seguridad y salud en el trabajo, con alcance a todos los centros de trabajo y a todos los trabajadores independientes de la forma de contratación o vinculación, incluyendo los contratistas y subcontratistas. El presidente, gerente general o representante legal tiene la responsabilidad de elaborar, documentar, firmar, divulgar y garantizar el cumplimiento de la política del SG-SST.
+        p.mb-5 <b>El Artículo 2.2.4.6.6 del Decreto 1072 del 2015 establece para la política del SG-SST los siguientes requisitos:</b>
         
         ul.lista-ul--color.t1.ms-5
             li

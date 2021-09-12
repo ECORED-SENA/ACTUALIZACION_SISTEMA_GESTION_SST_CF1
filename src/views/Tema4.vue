@@ -353,150 +353,176 @@
           div.div-blanco.p-5.mb-5
             SlyderA
               div.px-5
-                h4.titulo-naranja Ruido
-                p.mb-5 Es una sensación no agradable que percibe el oído a través del movimiento de ondas vibratorias de partículas de aire, a partir  de un medio de propagación con muy variada frecuencia e intensidad.
                 .row.justify-content-center
-                  .col-lg-6
-                    figure
-                      img(src='@/assets/curso/tema4/img19.svg')
+                  .col-lg-11
+                    h4.titulo-naranja Ruido
+                    p.mb-5 Es una sensación no agradable que percibe el oído a través del movimiento de ondas vibratorias de partículas de aire, a partir  de un medio de propagación con muy variada frecuencia e intensidad.
+                    .row.justify-content-center
+                      .col-lg-6
+                        figure
+                          img(src='@/assets/curso/tema4/img19.svg')
               div.px-5
-                h4.titulo-naranja Vibraciones
-                p.mb-5 Son movimientos ondulatorios oscilantes y continuos que pueden producir tensiones y deformaciones sobre el medio donde actúan, las vibraciones se pueden clasificar de cuerpo entero y segmentaria.
                 .row.justify-content-center
-                  .col-lg-6
-                    figure
-                      img(src='@/assets/curso/tema4/img20.svg')
+                  .col-lg-11
+                    h4.titulo-naranja Vibraciones
+                    p.mb-5 Son movimientos ondulatorios oscilantes y continuos que pueden producir tensiones y deformaciones sobre el medio donde actúan, las vibraciones se pueden clasificar de cuerpo entero y segmentaria.
+                    .row.justify-content-center
+                      .col-lg-6
+                        figure
+                          img(src='@/assets/curso/tema4/img20.svg')
               div.px-5
-                h4.titulo-naranja Iluminación
-                p.mb-5 En los lugares en donde no es suficiente la luz natural se requiere de la instalación de un sistema de iluminación artificial que permita realizar las labores con comodidad y facilidad, en cantidad suficiente, sin producir deslumbramiento y con un contraste donde se distingan los objetos.
                 .row.justify-content-center
-                  .col-lg-4
-                    figure
-                      img(src='@/assets/curso/tema4/img21.svg')
+                  .col-lg-11
+                    h4.titulo-naranja Iluminación
+                    p.mb-5 En los lugares en donde no es suficiente la luz natural se requiere de la instalación de un sistema de iluminación artificial que permita realizar las labores con comodidad y facilidad, en cantidad suficiente, sin producir deslumbramiento y con un contraste donde se distingan los objetos.
+                    .row.justify-content-center
+                      .col-lg-4
+                        figure
+                          img(src='@/assets/curso/tema4/img21.svg')
 
               div.px-5
-                h4.titulo-naranja Radiaciones ionizantes
-                p.mb-5 Son radiaciones electromagnéticas capaces de producir lesiones directas o indirectas a su paso a través de la materia, tiene el potencial de producir daños a nivel de la estructura celular, son utilizadas en las centrales nucleares para la generación de energía y en instrumentos para el  diagnóstico y tratamiento del cáncer, algunos ejemplos son los rayos X, gamma, beta, partículas alfa, neutrones y protones.
                 .row.justify-content-center
-                  .col-lg-7
-                    figure
-                      img(src='@/assets/curso/tema4/img22.svg')                           
+                  .col-lg-11
+                    h4.titulo-naranja Radiaciones ionizantes
+                    p.mb-5 Son radiaciones electromagnéticas capaces de producir lesiones directas o indirectas a su paso a través de la materia, tiene el potencial de producir daños a nivel de la estructura celular, son utilizadas en las centrales nucleares para la generación de energía y en instrumentos para el  diagnóstico y tratamiento del cáncer, algunos ejemplos son los rayos X, gamma, beta, partículas alfa, neutrones y protones.
+                    .row.justify-content-center
+                      .col-lg-7
+                        figure
+                          img(src='@/assets/curso/tema4/img22.svg')                           
                       
               div.px-5
-                h4.titulo-naranja Condiciones de seguridad
-                .row.mb-5.justify-content-center
-                  .col-lg-7
-                    figure
-                      img(src='@/assets/curso/tema4/img23.svg') 
-
-                p Hacen parte del riesgo físico y son aquellas condiciones materiales en el medio laboral que pueden dar lugar a accidentes de trabajo, tienen el potencial de producir daño, entre los riesgos están:
-
-              div.px-5
-                h4.titulo-naranja Riesgo mecánico
-                p.mb-5 Según el Instituto Nacional de Seguridad e Higiene en el trabajo es  el conjunto de factores físicos que pueden dar lugar a una lesión por la acción mecánica de elementos como máquinas, herramientas, piezas a trabajar o materiales proyectados, sólidos o fluidos; las consecuencias son principalmente: 
                 .row.justify-content-center
-                  .col-lg-3
-                    figure.px-3
-                      img(src='@/assets/curso/tema4/img24.svg')
-                  .col-lg-9
-                    ul.lista-ul--color.t1.ms-4
-                      li
-                        i.fas.fa-check-double
-                        | Aplastamiento y atrapamiento: generalmente se presenta cuando uno o varios objetos están en movimiento.
-                      li
-                        i.fas.fa-check-double
-                        | Cizallamiento o corte: se presenta cuando se trabaja con maquinaria de corte, filos, elementos cortopunzantes y demás elementos que eventualmente puedan ocasionar la amputación de algún miembro. 
-                      li
-                        i.fas.fa-check-double
-                        | Proyección de sólidos: corresponde a la generación de objetos extraños como piedras o partes del material de trabajo que la máquina expulsa a gran velocidad y que podría golpear a los trabajadores. 
-                      li
-                        i.fas.fa-check-double
-                        | Proyección de líquidos: se presenta cuando la máquina puede proyectar líquidos que son capaces de alcanzar al trabajador y generarle lesiones como quemaduras o daño ocular. 
-                      li
-                        i.fas.fa-check-double
-                        | Eléctrico: se genera en cualquier trabajo que implique manipulación de instalaciones eléctricas de baja, media o alta tensión.
-                      
-              div.px-5
-                h4.titulo-naranja Riesgo locativo
-                p.mb-5 Constituye una condición permanente en las labores de trabajo. Por lo cual debe ser evaluado y gestionado, incluye sistemas y medios de almacenamiento, arrumes elevados sin estibas, muebles mal anclados en el piso o en la pared, almacenamientos inadecuados, condiciones de la estructura de trabajo, condiciones de orden y aseo, ya que estas se encuentran directamente relacionadas con los accidentes de trabajo.
-                .row.justify-content-center
-                  .col-lg-10
-                    figure
-                      img(src='@/assets/curso/tema4/img25.svg') 
+                  .col-lg-11
+                    h4.titulo-naranja Condiciones de seguridad
+                    .row.mb-5.justify-content-center
+                      .col-lg-7
+                        figure
+                          img(src='@/assets/curso/tema4/img23.svg') 
+
+                    p Hacen parte del riesgo físico y son aquellas condiciones materiales en el medio laboral que pueden dar lugar a accidentes de trabajo, tienen el potencial de producir daño, entre los riesgos están:
 
               div.px-5
-                h4.titulo-naranja Riesgo tecnológico
-                p.mb-4 El Sistema Nacional de Gestión del Riesgo de Desastres considera el riesgo tecnológico a los daños o pérdidas potenciales que pueden presentarse, debido a los eventos generados por el uso y acceso a la tecnología, originados en sucesos antrópicos, naturales, socio naturales y propios de la operación. 
-                p.mb-5 <b>Tipos de peligro tecnológico: </b>explosión, fuga de sustancias, incendios y explosiones, derrame de sustancias químicas, accidentes industriales, accidentes nucleares, interrupciones en el fluido eléctrico, colapso en la infraestructura de los sistemas de prestación.
                 .row.justify-content-center
-                  .col-lg-5
-                    figure
-                      img(src='@/assets/curso/tema4/img26.svg') 
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo mecánico
+                    p.mb-5 Según el Instituto Nacional de Seguridad e Higiene en el Trabajo es  el conjunto de factores físicos que pueden dar lugar a una lesión por la acción mecánica de elementos como máquinas, herramientas, piezas a trabajar o materiales proyectados, sólidos o fluidos; las consecuencias son principalmente: 
+                    .row.justify-content-center
+                      .col-lg-3
+                        figure.px-3
+                          img(src='@/assets/curso/tema4/img24.svg')
+                      .col-lg-9
+                        ul.lista-ul--color.t1.ms-4
+                          li
+                            i.fas.fa-check-double
+                            | Aplastamiento y atrapamiento: generalmente se presenta cuando uno o varios objetos están en movimiento.
+                          li
+                            i.fas.fa-check-double
+                            | Cizallamiento o corte: se presenta cuando se trabaja con maquinaria de corte, filos, elementos cortopunzantes y demás elementos que eventualmente puedan ocasionar la amputación de algún miembro. 
+                          li
+                            i.fas.fa-check-double
+                            | Proyección de sólidos: corresponde a la generación de objetos extraños como piedras o partes del material de trabajo que la máquina expulsa a gran velocidad y que podría golpear a los trabajadores. 
+                          li
+                            i.fas.fa-check-double
+                            | Proyección de líquidos: se presenta cuando la máquina puede proyectar líquidos que son capaces de alcanzar al trabajador y generarle lesiones como quemaduras o daño ocular. 
+                          li
+                            i.fas.fa-check-double
+                            | Eléctrico: se genera en cualquier trabajo que implique manipulación de instalaciones eléctricas de baja, media o alta tensión.
+                          
+              div.px-5
+                .row.justify-content-center
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo locativo
+                    p.mb-5 Constituye una condición permanente en las labores de trabajo. Por lo cual debe ser evaluado y gestionado, incluye sistemas y medios de almacenamiento, arrumes elevados sin estibas, muebles mal anclados en el piso o en la pared, almacenamientos inadecuados, condiciones de la estructura de trabajo, condiciones de orden y aseo, ya que estas se encuentran directamente relacionadas con los accidentes de trabajo.
+                    .row.justify-content-center
+                      .col-lg-10
+                        figure
+                          img(src='@/assets/curso/tema4/img25.svg') 
+
+              div.px-5
+                .row.justify-content-center
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo tecnológico
+                    p.mb-4 El Sistema Nacional de Gestión del Riesgo de Desastres considera el riesgo tecnológico a los daños o pérdidas potenciales que pueden presentarse, debido a los eventos generados por el uso y acceso a la tecnología, originados en sucesos antrópicos, naturales, socio naturales y propios de la operación. 
+                    p.mb-5 <b>Tipos de peligro tecnológico: </b>explosión, fuga de sustancias, incendios y explosiones, derrame de sustancias químicas, accidentes industriales, accidentes nucleares, interrupciones en el fluido eléctrico, colapso en la infraestructura de los sistemas de prestación.
+                    .row.justify-content-center
+                      .col-lg-5
+                        figure
+                          img(src='@/assets/curso/tema4/img26.svg') 
               
               div.px-5
-                h4.titulo-naranja Riesgo por accidente de tránsito
-                p.mb-5 Atendiendo lo que menciona al respecto el Ministerio de Transporte (2012) es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados, igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.
                 .row.justify-content-center
-                  .col-lg-6
-                    figure
-                      img(src='@/assets/curso/tema4/img27.svg') 
-
-              div.px-5
-                h4.titulo-naranja Riesgo por peligro público
-                p.mb-4 Corresponde a los sucesos que pueden generar efectos no deseados a una persona o a una comunidad determinada, sin necesidad que alguna de estas tenga una característica particular. 
-                p.mb-4 <b>Los peligros públicos se clasifican en:</b> agresión externa contra la empresa, agresión externa contra algún funcionario en razón a su cargo y a las decisiones que toma, agresión al trabajador producto de sus hábitos personales y su ambiente sociofamiliar, agresión indiscriminada, consecuencia de estar en las condiciones de modo, hora y lugar menos oportunas. 
-                p.mb-5 Algunas sugerencias para el manejo del riesgo público son:
-                .row.justify-content-center
-                  .col-lg-4
-                    figure.px-3
-                      img(src='@/assets/curso/tema4/img28.svg') 
-                  .col-lg-8
-                      ul.lista-ul--color.t1.ms-4
-                        li
-                          i.fas.fa-check-double
-                          | Mantenga comunicación con su familia.
-                        li
-                          i.fas.fa-check-double
-                          | Cambie constantemente las rutas por las que transita diariamente.
-                        li
-                          i.fas.fa-check-double
-                          | Manténgase alerta mientras camina o conduce. 
-                        li
-                          i.fas.fa-check-double
-                          | Evite usar el teléfono celular en vía pública.
-                        li
-                          i.fas.fa-check-double
-                          | Mantenga siempre a la mano los teléfonos de emergencia.
-                        li
-                          i.fas.fa-check-double
-                          | No comparta por redes sociales todo lo que hace, ni los lugares que frecuenta.
-
-              div.px-5
-                h4.titulo-naranja Riesgo por trabajo en alturas
-                p.mb-5 Corresponde a toda actividad en la que el trabajador tenga riesgo de caerse a 1.5 metros o más sobre el nivel inferior. El trabajo en alturas es considerado de alto riesgo en Colombia, debido a que corresponde a una de las primeras causas de accidentalidad y muerte ocupacional.
-                
-                .row.justify-content-center
-                    .col-lg-6
-                      figure.px-3
-                        img(src='@/assets/curso/tema4/img29.svg')       
-
-              div.px-5
-                h4.titulo-naranja Riesgo por espacios confinados
-                p.mb-5 Son recintos con aberturas limitadas tanto de entrada como de salida de aire, en donde generalmente la ventilación natural no es buena, con posibles consecuencias como presentar deficiencia de oxígeno. La presencia de sustancias químicas y/o sustancias inflamables pueden generar accidentes por asfixia, intoxicación, explosión, etc.                              
-                
-                .row.justify-content-center
-                    .col-lg-6
-                      figure.px-3
-                        img(src='@/assets/curso/tema4/img31.svg')     
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo por accidente de tránsito
+                    p.mb-5 Atendiendo lo que menciona al respecto el Ministerio de Transporte (2012) es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados, igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.
+                    .row.justify-content-center
+                      .col-lg-6
+                        figure
+                          img(src='@/assets/curso/tema4/img27.svg') 
 
               div.px-5
                 .row.justify-content-center
-                    .col-lg-7
-                      h4.titulo-naranja Riesgo por fenómenos naturales
-                      p Son todos aquellos que son provocados por fenómenos de tipo natural y antrópico, que pueden generar consecuencias indeseables para los trabajadores tales como las inundaciones, deslizamientos, incendios forestales, sequías, avalanchas; también los hay meteorológicos como huracanes, tornados, granizadas, tormentas eléctricas y geofísicos como terremotos, volcanes, subsidencias e inestabilidades del terreno.
-                    .col-lg-5
-                      figure.px-5
-                        img(src='@/assets/curso/tema4/img30.svg')       
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo por peligro público
+                    p.mb-4 Corresponde a los sucesos que pueden generar efectos no deseados a una persona o a una comunidad determinada, sin necesidad que alguna de estas tenga una característica particular. 
+                    p.mb-4 <b>Los peligros públicos se clasifican en:</b> agresión externa contra la empresa, agresión externa contra algún funcionario en razón a su cargo y a las decisiones que toma, agresión al trabajador producto de sus hábitos personales y su ambiente sociofamiliar, agresión indiscriminada, consecuencia de estar en las condiciones de modo, hora y lugar menos oportunas. 
+                    p.mb-5 Algunas sugerencias para el manejo del riesgo público son:
+                    .row.justify-content-center
+                      .col-lg-4
+                        figure.px-3
+                          img(src='@/assets/curso/tema4/img28.svg') 
+                      .col-lg-8
+                          ul.lista-ul--color.t1.ms-4
+                            li
+                              i.fas.fa-check-double
+                              | Mantenga comunicación con su familia.
+                            li
+                              i.fas.fa-check-double
+                              | Cambie constantemente las rutas por las que transita diariamente.
+                            li
+                              i.fas.fa-check-double
+                              | Manténgase alerta mientras camina o conduce. 
+                            li
+                              i.fas.fa-check-double
+                              | Evite usar el teléfono celular en vía pública.
+                            li
+                              i.fas.fa-check-double
+                              | Mantenga siempre a la mano los teléfonos de emergencia.
+                            li
+                              i.fas.fa-check-double
+                              | No comparta por redes sociales todo lo que hace, ni los lugares que frecuenta.
+
+              div.px-5
+                .row.justify-content-center
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo por trabajo en alturas
+                    p.mb-5 Corresponde a toda actividad en la que el trabajador tenga riesgo de caerse a 1.5 metros o más sobre el nivel inferior. El trabajo en alturas es considerado de alto riesgo en Colombia, debido a que corresponde a una de las primeras causas de accidentalidad y muerte ocupacional.
+                    
+                    .row.justify-content-center
+                        .col-lg-6
+                          figure.px-3
+                            img(src='@/assets/curso/tema4/img29.svg')       
+
+              div.px-5
+                .row.justify-content-center
+                  .col-lg-11
+                    h4.titulo-naranja Riesgo por espacios confinados
+                    p.mb-5 Son recintos con aberturas limitadas tanto de entrada como de salida de aire, en donde generalmente la ventilación natural no es buena, con posibles consecuencias como presentar deficiencia de oxígeno. La presencia de sustancias químicas y/o sustancias inflamables pueden generar accidentes por asfixia, intoxicación, explosión, etc.                              
+                    
+                    .row.justify-content-center
+                        .col-lg-6
+                          figure.px-3
+                            img(src='@/assets/curso/tema4/img31.svg')     
+
+              div.px-5
+                .row.justify-content-center
+                  .col-lg-11
+                    .row.justify-content-center
+                        .col-lg-7
+                          h4.titulo-naranja Riesgo por fenómenos naturales
+                          p Son todos aquellos que son provocados por fenómenos de tipo natural y antrópico, que pueden generar consecuencias indeseables para los trabajadores tales como las inundaciones, deslizamientos, incendios forestales, sequías, avalanchas; también los hay meteorológicos como huracanes, tornados, granizadas, tormentas eléctricas y geofísicos como terremotos, volcanes, subsidencias e inestabilidades del terreno.
+                        .col-lg-5
+                          figure.px-5
+                            img(src='@/assets/curso/tema4/img30.svg')       
                 
 
 </template>

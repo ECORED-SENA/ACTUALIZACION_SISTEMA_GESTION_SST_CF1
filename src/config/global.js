@@ -24,7 +24,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Revisión de la política del SG SST',
+        titulo: 'Revisión de la política del SG-SST',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -32,7 +32,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Revisión de los objetivos generales y específicos del SG SST',
+        titulo: 'Revisión de los objetivos generales y específicos del SG-SST',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -322,7 +322,7 @@ export default {
         'MinTrabajo. (s.f.). Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Guía técnica de implementación para mipymes. MinTrabajo. ',
       tipo: 'Guía',
       descarga:
-        '/downloads/Guia tecnica de implementacion del SG SST para Mipymes.pdf',
+        '/downloads/Guia tecnica de implementacion del SG-SST para Mipymes.pdf',
     },
     {
       texto:
@@ -461,7 +461,11 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: [
+          'Álvaro Andrés Angarita Ramirez',
+          'Daniel Felipe Varón Molina',
+          'Milady Tatiana Villamil Castellanos',
+        ],
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

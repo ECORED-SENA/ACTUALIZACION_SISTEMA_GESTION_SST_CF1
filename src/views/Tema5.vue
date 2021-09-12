@@ -147,7 +147,7 @@
               | Hernia discal por manipulación de cargas. 
 
     p.mb-4 El Ministerio de la Protección Social en el Artículo 14 de la Resolución 1401 de 2007 indica que el aportante debe remitir a la administradora de riesgos laborales a la que se encuentra afiliado, dentro de los 15 días siguientes a la ocurrencia del evento, el informe de investigación del accidente de trabajo mortal y de los accidentes graves definidos en el Artículo 3 de esta resolución.
-    p.mb-4 Para investigar los incidentes, accidentes de trabajo, enfermedades laborales el empleador se debe conformar un equipo investigador en el que debe participar el COPASST. Para la investigación de un accidente grave o que produzca la muerte de un trabajador, en el equipo investigador debe participar un profesional con licencia en seguridad y salud en el trabajo (propio o contratado), así como del Comité paritario de SST.
+    p.mb-4 Para investigar los incidentes, accidentes de trabajo, enfermedades laborales el empleador debe conformar un equipo investigador en el que debe participar el COPASST. Para la investigación de un accidente grave o que produzca la muerte de un trabajador, en el equipo investigador debe participar un profesional con licencia en seguridad y salud en el trabajo (propio o contratado), así como del Comité Paritario de SST.
     p.mb-5 <b>De acuerdo con el Decreto 723 de 2013, las obligaciones del contratante en el reporte e investigación del incidente o accidente con sus contratistas son:</b>
 
     .row.justify-content-center.mb-4

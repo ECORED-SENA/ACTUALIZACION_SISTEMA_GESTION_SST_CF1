@@ -10,7 +10,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-8
-        p.mb-4 Una no conformidad detectada en el SG SST está definida como el no cumplimiento de un requisito. Puede ser una desviación de estándares, prácticas, procedimientos de trabajo, requisitos normativos aplicables, entre otros. 
+        p.mb-4 Una no conformidad detectada en el SG-SST está definida como el no cumplimiento de un requisito. Puede ser una desviación de estándares, prácticas, procedimientos de trabajo, requisitos normativos aplicables, entre otros. 
         p.mb-4 También incluye cualquier otro no cumplimiento a un requisito del SG- SST o que suponga un posible impacto en la seguridad y la salud de los trabajadores.
         p.mb-4 En el caso de que durante la visita de los funcionarios de las direcciones territoriales del Ministerio del Trabajo para realizar la verificación en la empresa u organización del cumplimiento de los estándares mínimos de la Resolución 0312 encuentren no conformidades por el no cumplimiento de las obligaciones, normas y requisitos legales establecidos en los estándares mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo, este organismo podrá imponer acciones correctivas o planes de mejoramiento según lo recomendado por las autoridades administrativas o por las administradoras de riesgos, de acuerdo con la siguiente tabla:
       .col-lg-4
@@ -104,7 +104,7 @@
           .anexo__icono
             img(src="@/assets/curso/tema6/img02.svg")
           .anexo__texto
-            p <b style="color:#E3934E !important">Enlace web.</b> <b>Reporte autoevaluaciones SG SST.</b> De acuerdo con la Circular 0071 del 2020 se podrán reportar las autoevaluaciones del Sistema de Gestión de Seguridad y Salud en el Trabajo de los años 2019 y 2020 en este enlace.
+            p <b style="color:#E3934E !important">Enlace web.</b> <b>Reporte autoevaluaciones SG-SST.</b> De acuerdo con la Circular 0071 del 2020 se podrán reportar las autoevaluaciones del Sistema de Gestión de Seguridad y Salud en el Trabajo de los años 2019 y 2020 en este enlace.
 
 
 
